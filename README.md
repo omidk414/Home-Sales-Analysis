@@ -17,6 +17,7 @@ In this challenge, we use SparkSQL to determine key metrics about home sales dat
 
 ## Technologies Used
 
+- Google Colab
 - PySpark
 - SparkSQL
 - Python
