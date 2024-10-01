@@ -68,7 +68,7 @@ For homes with 3 bedrooms, 3 bathrooms, 2 floors, and ≥2,000 sqft:
 
 ### View Rating Impact on Prices
 
-Homes with higher view ratings commanded significantly higher prices:
+Homes with higher view ratings showed significantly higher prices:
 
 | View Rating | Average Price |
 |-------------|---------------|
